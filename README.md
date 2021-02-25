@@ -7,10 +7,10 @@ Provide a known address in the HD Key chain in "target address", and the depth t
 
 Works with BIP44, BIP49 and BIP84 HD derivations.
 
-![alt text](https://github.com/coinables/mnemonic-recovery/blob/master/1.png?raw=true)
+![example mnemonic](1.png?raw=true)
 
-![alt text](https://github.com/coinables/mnemonic-recovery/blob/master/2.png?raw=true)
+![example target address](2.png?raw=true)
 
-![alt text](https://github.com/coinables/mnemonic-recovery/blob/master/3.png?raw=true)
+![fill out form](3.png?raw=true)
 
-![alt text](https://github.com/coinables/mnemonic-recovery/blob/master/4.png?raw=true)
+![success](4.png?raw=true)
