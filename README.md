@@ -14,3 +14,8 @@ Works with BIP44, BIP49 and BIP84 HD derivations.
 ![fill out form](3.png?raw=true)
 
 ![success](4.png?raw=true)
+
+
+Please consider donating if you find this tool useful.
+
+BTC: 3LnBzPmb3BkDUZBHLHdEj5vgxS6D6HjKLW
